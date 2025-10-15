@@ -33,17 +33,17 @@ ________________________________________________________________________________
 
   > run code 
 
-        ./insta_osint.sh mr_rkarthik
+        ./Insta_osint.shmr_rkarthik
 
 
 # If you want to scan a different username, run:
 
-      ./insta_osint.sh target_username_here
+      ./Insta_osint.sh target_username_here
 
 
 # Start the local server to view results in your browser
 
-      ./Local_server.sh
+      ./Local_Server.sh
 
 
 # This script usually prints which port it’s listening on (e.g. Serving at http://0.0.0.0:8080).
@@ -52,7 +52,7 @@ If it does not, find the local IP and open the browser manually:
 
 Find your machine’s local IP:
 
-hostname -I    # prints IP(s), e.g. 192.168.1.12
+     hostname -I    # prints IP(s), e.g. 192.168.1.12
 
 
 # Construct the URL using the printed port (replace PORT with the port shown by the server):
