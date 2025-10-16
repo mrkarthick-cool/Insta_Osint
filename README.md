@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
   > run code 
 
-        ./Insta_osint.shmr_rkarthik
+        ./Insta_osint.sh mr_rkarthik
 
 
 # If you want to scan a different username, run:
