@@ -69,6 +69,10 @@ Or try the loopback:
       http://127.0.0.1:PORT
 
 
+# YouTube video 
+
+     https://youtu.be/wqZ-b4UyBHQ?si=wvSndD-Eun8LZXV3
+
 Copy the localhost/local IP into Chrome/Firefox address bar
 
      Paste the URL from step 5 (e.g. http://127.0.0.1:8080 or http://192.168.1.12:8080) and press Enter
