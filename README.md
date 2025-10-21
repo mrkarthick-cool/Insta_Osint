@@ -71,7 +71,7 @@ Or try the loopback:
 
 # YouTube video 
 
-     https://youtu.be/wqZ-b4UyBHQ?si=wvSndD-Eun8LZXV3
+ https://youtu.be/wqZ-b4UyBHQ?si=wvSndD-Eun8LZXV3
 
 Copy the localhost/local IP into Chrome/Firefox address bar
 
